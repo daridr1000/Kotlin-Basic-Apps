@@ -2,9 +2,8 @@ package org.meicode.sweetwords
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.affirmations.adapter.ItemAdapter
+import org.meicode.sweetwords.adapter.ItemAdapter
 import org.meicode.sweetwords.data.Datasource
 
 class MainActivity : AppCompatActivity() {
